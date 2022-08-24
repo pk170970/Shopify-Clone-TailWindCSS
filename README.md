@@ -3,7 +3,7 @@
 
 
 ## 🔗Project  Link
-https://htmlTailwind-shopifyClone.netlify.app/
+https://htmltailwind-shopifyClone.netlify.app/
 
 This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and TAILWIND CSS**.
 <br>
